@@ -1,5 +1,5 @@
 # LiteBook
-# 파이널 프로젝트 - 당신의 여행을 한 권의 책으로 『LiteBook』
+# 당신의 여행을 한 권의 책으로 『LiteBook』
 기간: 2022년 12월 1일 ~ 현재
 사용 기술: Spring Framework, Java, Jsp, Html/Css/Javascript, Oracle, jQuery
 참여 인원 : 5명
